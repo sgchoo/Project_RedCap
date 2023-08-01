@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 915097d737f67f04db582759341be007
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      internalID: 4781951162920444690
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: squirrel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: squirrel(Clone)
+      position: {x: 0.0028726037, y: 0.6586104, z: -0.05762093}
+      rotation: {x: -4.5145215e-17, y: 0.7372773, z: 0.6755902, w: -4.136797e-17}
+      scale: {x: -6.1253552, y: -6.3944573, z: -6.3311377}
+    - name: body
+      parentName: squirrel(Clone)
+      position: {x: 0.0028726037, y: -0.024826122, z: 0.0021720051}
+      rotation: {x: -4.5145215e-17, y: 0.7372773, z: 0.6755902, w: -4.136797e-17}
+      scale: {x: -4.5662665, y: -4.7668734, z: -4.7196712}
+    - name: white_eye_2.L
+      parentName: squirrel(Clone)
+      position: {x: -0.24005635, y: 0.74489623, z: 0.24598508}
+      rotation: {x: -0.26648432, y: 0.28107652, z: 0.92099875, w: -0.0417554}
+      scale: {x: 1.074984, y: 1.1006044, z: 1.0949863}
+    - name: nose
+      parentName: squirrel(Clone)
+      position: {x: 0.0028726037, y: 0.6956104, z: 0.3652911}
+      rotation: {x: -2.6709116e-18, y: 0.043619297, z: 0.99904823, w: -6.117406e-17}
+      scale: {x: 0.47067755, y: 0.48649, z: 0.49135557}
+    - name: arm.R_top
+      parentName: squirrel(Clone)
+      position: {x: -0.4041058, y: 0.23294364, z: -0.020379925}
+      rotation: {x: 0.4777093, y: 0.5213394, z: 0.47771952, w: 0.5213282}
+      scale: {x: 0.9643791, y: 0.9740241, z: 2.422954}
+    - name: Armature
+      parentName: squirrel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7372773, y: -3.777247e-18, z: 8.6513186e-17, w: 0.6755902}
+      scale: {x: 7.73907, y: 8.079066, z: 8.006952}
+    - name: spine
+      parentName: Armature
+      position: {x: 0.00012045759, y: 0.0000000032691794, z: 0.019234307}
+      rotation: {x: 0.70710325, y: 0.0022141389, z: -0.002214153, w: 0.7071034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head 1
+      parentName: spine
+      position: {x: -2.1874863e-16, y: 0.04414993, z: -6.078471e-16}
+      rotation: {x: 0.00000015219128, y: 0.0000000102530535, z: 0.0031312755, w: 0.9999951}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm.L
+      parentName: spine
+      position: {x: -0.031709123, y: 0.030126596, z: -0.0000000035975873}
+      rotation: {x: 0.000000101223854, y: -0.000000089841414, z: 0.9066125, w: 0.42196417}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: leg.L 1
+      parentName: spine
+      position: {x: -0.019859565, y: -0.0076790387, z: -0.000000015352924}
+      rotation: {x: 0.00000035022285, y: -0.00000014815093, z: 0.99992704, w: -0.012078544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm.R
+      parentName: spine
+      position: {x: 0.031329308, y: 0.030521382, z: -0.0000000048093836}
+      rotation: {x: 0.14296713, y: 0.06763354, z: 0.8925749, w: -0.4222513}
+      scale: {x: 0.9999996, y: 0.99999964, z: 1}
+    - name: leg.R
+      parentName: spine
+      position: {x: 0.019954186, y: -0.0074296943, z: -0.00000001611827}
+      rotation: {x: -0.00000032973475, y: -0.00000015011098, z: 0.9999831, w: 0.005816264}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: black_eye.L
+      parentName: squirrel(Clone)
+      position: {x: -0.23956864, y: 0.74440974, z: 0.24529544}
+      rotation: {x: -0.31614113, y: 0.2779938, z: 0.90646154, w: -0.03319197}
+      scale: {x: 1.0793889, y: 1.1001961, z: 1.0910561}
+    - name: white_eye.L
+      parentName: squirrel(Clone)
+      position: {x: -0.244785, y: 0.7496137, z: 0.25267175}
+      rotation: {x: -0.26648432, y: 0.28107652, z: 0.92099875, w: -0.0417554}
+      scale: {x: 1.074984, y: 1.1006044, z: 1.0949863}
+    - name: arm.R_b
+      parentName: squirrel(Clone)
+      position: {x: -0.4041058, y: 0.23294364, z: -0.020379925}
+      rotation: {x: 0.4777093, y: 0.5213394, z: 0.47771952, w: 0.5213282}
+      scale: {x: 0.9643791, y: 0.9740241, z: 2.422954}
+    - name: arm.L.top
+      parentName: squirrel(Clone)
+      position: {x: -0.4041058, y: 0.23294364, z: -0.020379925}
+      rotation: {x: 0.4777093, y: 0.5213394, z: 0.47771952, w: 0.5213282}
+      scale: {x: 0.9643791, y: 0.9740241, z: 2.422954}
+    - name: arm_L.b
+      parentName: squirrel(Clone)
+      position: {x: -0.4041058, y: 0.23294364, z: -0.020379925}
+      rotation: {x: 0.4777093, y: 0.5213394, z: 0.47771952, w: 0.5213282}
+      scale: {x: 0.9643791, y: 0.9740241, z: 2.422954}
+    - name: Leg.R
+      parentName: squirrel(Clone)
+      position: {x: -0.15079547, y: -0.20448573, z: 0.017890183}
+      rotation: {x: -0.7372773, y: -0.000000029530987, z: -0.000000032227415, w: 0.6755902}
+      scale: {x: -1.0117667, y: -1.0562161, z: -2.0519054}
+    - name: leg.L
+      parentName: squirrel(Clone)
+      position: {x: -0.15079547, y: -0.20448573, z: 0.017890183}
+      rotation: {x: -0.7372773, y: -0.000000029530987, z: -0.000000032227415, w: 0.6755902}
+      scale: {x: -1.0117667, y: -1.0562161, z: -2.0519054}
+    - name: head
+      parentName: squirrel(Clone)
+      position: {x: 0.0028726037, y: 0.6586104, z: -0.05762093}
+      rotation: {x: -4.5145215e-17, y: 0.7372773, z: 0.6755902, w: -4.136797e-17}
+      scale: {x: -6.1253552, y: -6.3944573, z: -6.3311377}
+    - name: Cube.001
+      parentName: squirrel(Clone)
+      position: {x: 0.0050348523, y: 0.44676897, z: -0.33626437}
+      rotation: {x: -4.3297806e-17, y: 0.7071068, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 0.5554046, y: 1.2306249, z: 0.5554046}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
