@@ -107,8 +107,6 @@ public class NPC_1_ctrl : MonoBehaviour
 
         transform.forward = -target.forward;//뒤돌아봐서 -로 수정
 
-        
-
         //말풍선 이미지 비활성화
         mark.gameObject.SetActive(false);
 

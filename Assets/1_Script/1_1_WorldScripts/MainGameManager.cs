@@ -138,7 +138,6 @@ public class MainGameManager : MonoBehaviour
         }
     }
 
-
     void CreateGrandma()
     {
         flowerText.text = "X " + ShopManager.flowerCount;
@@ -152,6 +151,4 @@ public class MainGameManager : MonoBehaviour
             Debug.Log("조건 충족");
         }
     }
-
-    
 }

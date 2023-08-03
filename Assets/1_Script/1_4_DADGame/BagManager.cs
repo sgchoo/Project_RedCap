@@ -8,7 +8,6 @@ using UnityEngine.SceneManagement;
 
 public class BagManager : MonoBehaviour
 {
-
     public int blueCount;
     public int greenCount;
     public int redCount;
@@ -31,7 +30,6 @@ public class BagManager : MonoBehaviour
     public Image gameClear;
     public Image gameOver;
 
-    // Start is called before the first frame update
     void Start()
     {
         coinPlusCount = 0;
@@ -43,7 +41,6 @@ public class BagManager : MonoBehaviour
         GreenRanNum.text = " X " + greenCount.ToString();
     }
 
-    // Update is called once per frame
     void Update()
     {
         AllMistake();
