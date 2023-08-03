@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/0_Scenes/TitleScene.unity
+    guid: aca552b34ed249144bb9e340aa8c4efc
+  - enabled: 1
+    path: Assets/0_Scenes/ArrowGameInfoScene.unity
+    guid: fa95251e2fe9be64798ca2f159c572cd
+  - enabled: 1
+    path: Assets/0_Scenes/ArrowGameScene.unity
+    guid: 11612432720678848ab9abb89e5be608
+  - enabled: 1
+    path: Assets/0_Scenes/BallGameInfoScene.unity
+    guid: 60ae46238fe5099458d97c3f2889cec9
+  - enabled: 1
+    path: Assets/0_Scenes/BallGameScene.unity
+    guid: 9dbf49e9e569be64c93c202fe000f1fb
+  - enabled: 1
+    path: Assets/0_Scenes/EndingScene.unity
+    guid: 488bb2a2c7fc84044b8ef341f3c48d86
+  - enabled: 1
+    path: Assets/0_Scenes/LoadingScene.unity
+    guid: d3c78c987f0ca14458a14d2aee9f5603
+  - enabled: 1
+    path: Assets/0_Scenes/MainScene.unity
+    guid: 80b1baaaa0e91be4ea57b827509c8392
+  - enabled: 1
+    path: Assets/0_Scenes/Mini_MouseDrag.unity
+    guid: 0d0afbb6dd95b02458ac2e1f93a6de3b
+  - enabled: 1
+    path: Assets/0_Scenes/Mini_MouseDragInfo.unity
+    guid: 2dc92fe271276b74d808388c23a6f53f
+  - enabled: 1
+    path: Assets/0_Scenes/RoadGameInfoScene.unity
+    guid: 8d56629c394f06041a4f92007221ac50
+  - enabled: 1
+    path: Assets/0_Scenes/RoadGameScene3x3.unity
+    guid: 035aee11751261f47b0b8cc7ea555e00
+  - enabled: 1
+    path: Assets/0_Scenes/RoadGameScene4x4_1st.unity
+    guid: d4300a56ae0cdc74e8ae63de327af641
+  - enabled: 1
+    path: Assets/0_Scenes/RoadGameScene4x4_2nd.unity
+    guid: 97209b864dbc22043b481f22929d7472
+  m_configObjects: {}
