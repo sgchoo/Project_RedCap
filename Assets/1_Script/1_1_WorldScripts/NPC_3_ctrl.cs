@@ -32,8 +32,6 @@ public class NPC_3_ctrl : MonoBehaviour
     //플레이어 퀘스트 가능 거리
     public float questDistance = 3f;
 
-    //bool isChat = false;
-
     Transform target;
     public Image mark;
     [SerializeField] private TextMeshPro textTitle;
