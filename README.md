@@ -1,5 +1,5 @@
 # Project_RedCap
-- "빨간모자의 Math Log" Repository입니다.
+- 3D Project "빨간모자의 Math Log" Repository입니다.
 
 ## 장르
 - 동화 "빨간 모자" 스토리텔링 기반 유아용 타깃 수학 교육 게임 콘텐츠입니다.
